@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MfileReader", "MfileReader\MfileReader.vcxproj", "{1FD5E288-4B1D-4278-A3D5-92883BBF3FAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FD5E288-4B1D-4278-A3D5-92883BBF3FAD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1FD5E288-4B1D-4278-A3D5-92883BBF3FAD}.Debug|Win32.Build.0 = Debug|Win32
+		{1FD5E288-4B1D-4278-A3D5-92883BBF3FAD}.Release|Win32.ActiveCfg = Release|Win32
+		{1FD5E288-4B1D-4278-A3D5-92883BBF3FAD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
